@@ -1,0 +1,12 @@
+pyopenssl
+ndg-httpsclient
+pyasn1
+urllib3
+requests[security]
+Flask
+Flask-Bootstrap
+celery[redis]
+docker-py
+pystache
+pyyaml
+kombu==3.0.12
